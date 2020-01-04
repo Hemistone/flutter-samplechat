@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "909150076300",
+    "firebase_url": "https://chattingsample-c4203.firebaseio.com",
+    "project_id": "chattingsample-c4203",
+    "storage_bucket": "chattingsample-c4203.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909150076300:android:e0976769088651a1eb2aa9",
+        "android_client_info": {
+          "package_name": "com.example.myfirst_flutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909150076300-e6ej5fr4e4vs1hormoab78e1fvdg3men.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWCswPJubNVop-EauWkAVOYmyg3851Rp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909150076300-e6ej5fr4e4vs1hormoab78e1fvdg3men.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
