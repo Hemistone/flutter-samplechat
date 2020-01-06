@@ -9,6 +9,7 @@ class HomeScreen extends StatefulWidget {
 }
 
 class _HomeScreenState extends State<HomeScreen> {
+  final Radius myRadius = Radius.circular(16.0);
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -45,8 +46,8 @@ class _HomeScreenState extends State<HomeScreen> {
                   decoration: BoxDecoration(
                     color: Theme.of(context).accentColor,
                     borderRadius: BorderRadius.only(
-                      topLeft: Radius.circular(30.0),
-                      topRight: Radius.circular(30.0),
+                      topLeft: myRadius,
+                      topRight: myRadius,
                     ),
                   ),
                   child: Column(
